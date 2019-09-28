@@ -6,3 +6,5 @@ __pycache__
 dist/
 wrangle.egg-info
 .idea
+venv/
+.vscode/

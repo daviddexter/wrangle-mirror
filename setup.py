@@ -24,10 +24,10 @@ except ImportError:
 
 install_requires = ['numpy',
                     'pandas',
-                    'scipy==1.2',
+                    'scipy',
                     'statsmodels',
                     'sklearn',
-                    'keras']
+                    'tensorflow']
 
 if __name__ == "__main__":
 
