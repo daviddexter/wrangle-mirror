@@ -67,6 +67,10 @@ Daily development version:
 
 #### `pip install git+https://github.com/autonomio/wrangle.git@daily-dev`
 
+For mirrored tf2 version
+
+#### `pip install git+https://github.com/daviddexter/wrangle-mirrir.git`
+
 ### Support
 
 If you want ask a **"how can I use Wrangle to..."** question, the right place is [StackOverflow](https://stackoverflow.com/questions/ask).
