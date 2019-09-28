@@ -3,7 +3,7 @@ import numpy as np
 
 def array_to_generator(x, y, batch_size):
 
-    '''Creates a data generator for Keras fit_generator(). '''
+    '''Creates a data generator for tf.Keras fit_generator(). '''
 
     samples_per_epoch = x.shape[0]
     number_of_batches = samples_per_epoch / batch_size

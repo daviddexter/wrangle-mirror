@@ -3,7 +3,7 @@ import numpy as np
 
 def array_reshape_lstm(data, seq_len, normalise_window):
 
-    '''Reshapes a 1d array for LSTM layer in Keras.
+    '''Reshapes a 1d array for LSTM layer in tf.Keras.
 
     data : numpy array
         A 2-d numpy array to be respahed.
