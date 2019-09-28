@@ -27,7 +27,7 @@ install_requires = ['numpy',
                     'scipy==1.2',
                     'statsmodels',
                     'sklearn',
-                    'keras']
+                    'tensorflow==2.0.0-rc1']
 
 if __name__ == "__main__":
 
